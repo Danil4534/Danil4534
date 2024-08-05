@@ -27,3 +27,4 @@
 ![Github](https://img.shields.io/badge/github-grey?logo=github&logoColor=0d1117&style=for-the-badge)
 ![Github](https://img.shields.io/badge/gitlab-white?logo=gitlab&logoColor=orange&style=for-the-badge)
 ![JSON Web Tokens Badge](https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge)
+![Swagger Badge](https://img.shields.io/badge/swagger-000?logo=swagger&logoColor=fff&style=for-the-badge)
