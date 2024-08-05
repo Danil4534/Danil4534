@@ -27,4 +27,7 @@
 ![Github](https://img.shields.io/badge/github-grey?logo=github&logoColor=0d1117&style=for-the-badge)
 ![Github](https://img.shields.io/badge/gitlab-white?logo=gitlab&logoColor=orange&style=for-the-badge)
 ![JSON Web Tokens Badge](https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge)
-![Swagger Badge](https://img.shields.io/badge/swagger-000?logo=swagger&logoColor=fff&style=for-the-badge)
+![Swagger Badge](https://img.shields.io/badge/swagger-green?logo=swagger&logoColor=black&style=for-the-badge)
+![NestJS Badge](https://img.shields.io/badge/nestjs-black?logo=nestjs&logoColor=red&style=for-the-badge)
+![Docker Badge](https://img.shields.io/badge/docker-blue?logo=docker&logoColor=white&style=for-the-badge)
+![Firebase Badge](https://img.shields.io/badge/firebase-white?logo=firebase&logoColor=yellow&style=for-the-badge)
