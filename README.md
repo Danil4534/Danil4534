@@ -1,16 +1,27 @@
-## Hi there 👋
+##👨‍💻🛠️💡 Tech Stack:
 
-<!--
-**DanilTsapok/DanilTsapok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
+![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge)
+![AntDesign](https://img.shields.io/badge/antdesign-fff?logo=antdesign&logoColor=blue&style=for-the-badge)
+![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Css Module Badge](https://img.shields.io/badge/CSSModules-white?logo=cssmodules&logoColor=black&style=for-the-badge)
+![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge)
+![React Hook Form Badge](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff&style=for-the-badge)
+![nextjs](https://img.shields.io/badge/next.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
+![i18next Badge](https://img.shields.io/badge/i18next-26A69A?logo=i18next&logoColor=fff&style=for-the-badge)
+![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-1e1e1e?logo=figma&logoColor=fff&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/Postgresql-336090?logo=Postgresql&logoColor=fff&style=for-the-badge)
+![Axios](https://img.shields.io/badge/axios-black?logo=axios&logoColor=purple&style=for-the-badge)
+![Formik](https://img.shields.io/badge/formik-fff?logo=formik&logoColor=172b4d&style=for-the-badge)
+![Yup](https://img.shields.io/badge/yup-fff?logo=yup&logoColor=172b4d&style=for-the-badge)
+![Git](https://img.shields.io/badge/git-orange?logo=git&logoColor=fff&style=for-the-badge)
+![Github](https://img.shields.io/badge/github-grey?logo=github&logoColor=0d1117&style=for-the-badge)
+![Github](https://img.shields.io/badge/gitlab-white?logo=gitlab&logoColor=orange&style=for-the-badge)
+![JSON Web Tokens Badge](https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge)
