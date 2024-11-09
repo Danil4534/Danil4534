@@ -31,3 +31,5 @@
 ![NestJS Badge](https://img.shields.io/badge/nestjs-black?logo=nestjs&logoColor=red&style=for-the-badge)
 ![Docker Badge](https://img.shields.io/badge/docker-blue?logo=docker&logoColor=white&style=for-the-badge)
 ![Firebase Badge](https://img.shields.io/badge/firebase-white?logo=firebase&logoColor=yellow&style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=Angular&logoColor=red)
+![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=Laravel&logoColor=red)
